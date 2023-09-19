@@ -6,18 +6,12 @@
 	<artifactId>spring-practices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
-		<maven.compiler.source>17</maven.compiler.source>
-		<maven.compiler.target>17</maven.compiler.target>
-	</properties>
+	
+	
 	<modules>
 		<module>hellospring</module>
 		<module>emaillist03</module>
 		<module>guestbook03</module>
+		<module>aoptest</module>
 	</modules>
-	<build>
-		<finalName>hellospring</finalName>
-	</build>
 </project>
