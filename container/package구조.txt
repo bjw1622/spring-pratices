@@ -1,0 +1,16 @@
+[src/main/java]
+	com.poscodx.container.user
+		|-- User.java
+		|-- Friend.java
+	com.poscodx.container.user.test
+		|-- XmlConfigTest.java
+	
+	com.poscodx.container.soudsystem
+	com.poscodx.container.videosystem
+	
+[src/main/resources]
+
+[src/test/java]
+[src/test/resources]
+	com.poscodx.container.user
+		|-- applicationContext.xml
